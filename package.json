@@ -1,0 +1,16 @@
+{
+  "name": "section-5-agents",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "openai": "^4.77.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.7"
+  }
+}
